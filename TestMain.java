@@ -3,5 +3,7 @@ public class TestMain {
     System.out.println("modify");
     System.out.println("add");
     //just do nothing
+    TestFun testFun = new TestFun();
+    testFun.fun();
   }
 }
