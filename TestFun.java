@@ -1,5 +1,6 @@
 public class TestFun {
   public void fun() {
-    System.out.pringln("call fun");
-  }
+    System.out.println("call fun");
+    //just do fun
+   }
 }
