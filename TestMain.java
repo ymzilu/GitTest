@@ -5,7 +5,7 @@ public class TestMain {
     //just do nothing
     TestFun testFun = new TestFun();
     testFun.fun();
-    //add 2
+    //add 555
     testFun.fun();
     //add 2
     testFun.fun();
