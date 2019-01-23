@@ -7,5 +7,7 @@ public class TestMain {
     testFun.fun();
     //add
     testFun.fun();
+    //add 2
+    testFun.fun();
   }
 }
